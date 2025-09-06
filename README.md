@@ -1,5 +1,6 @@
-# Produccion_de_aguacate_Mexico
-Producción de aguacate en México y su comparación contra otros paises importantes en la producción de aguacate
+Produccion_de_aguacate_Mexico
+
+Producción de aguacate en México y su comparación contra otros países importantes en la producción de aguacate
 
 📊 Análisis de la Producción de Aguacate en México y Principales Países Productores
 
@@ -9,15 +10,15 @@ Este proyecto utiliza el conjunto de datos "World Food Production" de Kaggle par
 /world-food-production
 │
 ├── data/
-│   └── world_food_production.csv  # Conjunto de datos original
+│ └── world_food_production.csv # Conjunto de datos original
 │
 ├── notebooks/
-│   └── analisis_aguacate_mexico.ipynb  # Jupyter Notebook con el análisis
+│ └── analisis_aguacate_mexico.ipynb # Jupyter Notebook con el análisis
 │
 ├── images/
-│   └── grafico_produccion.png  # Gráfico de la producción de aguacate
+│ └── grafico_produccion.png # Gráfico de la producción de aguacate
 │
-└── README.md  # Este archivo
+└── README.md # Este archivo
 
 📈 Objetivo del Proyecto
 
@@ -26,11 +27,8 @@ El objetivo es visualizar y comparar la producción de aguacate en México con l
 🔧 Herramientas y Tecnologías
 
 Python 3.x
-
 Pandas
-
 Matplotlib / Seaborn
-
 Jupyter Notebook
 
 📥 Instrucciones de Uso
@@ -40,11 +38,9 @@ Clona este repositorio:
 git clone https://github.com/tu_usuario/world-food-production.git
 cd world-food-production
 
-
 Instala las dependencias necesarias:
 
 pip install -r requirements.txt
-
 
 Abre el notebook para el análisis:
 
